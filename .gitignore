@@ -1,2 +1,4 @@
-.gitsecret/keys/random_seed
-vertraulich
+# A /* ensures that everything will be ignored.
+/*
+
+!geheim
